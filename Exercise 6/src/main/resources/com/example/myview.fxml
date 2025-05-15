@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="258.0" fitWidth="368.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@tsuki.jpg" />
+         </image>
+      </ImageView>
+      <Label prefHeight="108.0" prefWidth="328.0" text="TSUKI">
+         <font>
+            <Font size="70.0" />
+         </font>
+      </Label>
+   </children>
+</VBox>
